@@ -17,7 +17,3 @@ Describe the requested feature. Is it a quality-of-life feature? Is it a feature
 Describe the purpose of the feature here. What made you request this feature? What does it do? What is its purpose? Are you sure it doesn't already exist in some form?
 
 **Additional notes**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
